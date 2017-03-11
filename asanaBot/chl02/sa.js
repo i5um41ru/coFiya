@@ -1,4 +1,4 @@
-var data = require('./data');
+var data = require('./data_input');
 var smartAssigning = function(names, statuses, projects, tasks) {
   available = [];
   for (var i = 0; i < names.length; i++) {

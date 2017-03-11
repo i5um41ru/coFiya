@@ -1,4 +1,4 @@
-var data = require('./data');
+var data = require('./data_input');
 var sa = require('./sa');
 
 var waktuLama = Date.now();
